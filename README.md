@@ -1,6 +1,5 @@
 ### Olá pessoal! 👋
 
-<br />
 <a href="https://linkedin.com/in/diego-silva-0001">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
