@@ -12,21 +12,6 @@
 </a>
 
 
-
-<!--
-
-Create a img tag <img src="BadgeURLHere" /> or ![image](BadgeURLHere)
-
-<a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=flat-square&logo-appveyor)](https://linkedin.com/in/diego-silva-0001) 
-<img src="https://komarev.com/ghpvc/?username=Diego-si&label=Profile%20views&color=0e75b6&style=flat-square&logo-appveyor" alt="Diego Almeida da Silva" />
-
-
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/diego-silva-0001)[![Discord](https://img.shields.io/badge/--discord?label=Discord&logo=Discord&style=social)](https://discord.gg/FWcwZjeY)[![followersGit](https://img.shields.io/github/followers/adrianoleitedasilva?style=social)](https://github.com/adrianoleitedasilva) <img src="https://komarev.com/ghpvc/?username=Diego-si&label=Profile%20views&color=0e75b6&style=social" alt="Diego Almeida da Silva"/>
-
--->
-
 Me chamo Diego Almeida da Silva, 27 anos, gosto de jogos para **Pc** , amo tecnologia e música eletrônica.
 
 Faço parte da equipe de Programação Trainee Java,
@@ -48,13 +33,13 @@ typeScript, mongoDB, sql. Um conhecimento intermediário nestas linguagens.
 
 Meu maior foco e se aprofundar em relação ao java.
 
-**O que estou fazendo atualmente?**
+###O que estou fazendo atualmente?
 
 - 🔭 Atualmente eu trabalho na Foursys Tecnologia.
 - 📚 Estudando javaScript e typeScript, java web.
 - 🎮 Um pouco de jogos de PC, me chama discord: Azul#1252
 
-**Projetos em que estou envolvido no momento**
+###Projetos em que estou envolvido no momento
 
 Para divulgação dos jogos Call of Duty Modern Warfare e Legend of Legends Wild Rift,
 Acesse o site <a href="http://mobilecommunity.site/">**Mobile Community**</a>.
@@ -62,13 +47,13 @@ Acesse o site <a href="http://mobilecommunity.site/">**Mobile Community**</a>.
 ### Ferramentas Utilizadas
 
 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code><code><img width="25%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"></code><code><img width="25%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code><code><img width="25%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code><code><img width="25%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code><code><img width="25%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+<code><img width="25%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><code><img width="25%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="25%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code><code><img width="25%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 
 
 ### Status GitHub
