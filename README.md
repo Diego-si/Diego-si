@@ -56,6 +56,7 @@ Acesse o site <a href="http://mobilecommunity.site/">**Mobile Community**</a>.
 
 ### Status de Linguagens
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-si&show_icons=true&locale=en"/>
+
 ### Status GitHub
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diego-si&show_icons=true&locale=en" alt="Diego Almeida da Silva" />
 
