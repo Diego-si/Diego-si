@@ -59,6 +59,20 @@ Meu maior foco e se aprofundar em relação ao java.
 Para divulgação dos jogos Call of Duty Modern Warfare e Legend of Legends Wild Rift,
 Acesse o site <a href="http://mobilecommunity.site/">**Mobile Community**</a>.
 
+### Ferramentas Utilizadas
+
+
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br />
+
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<br />
+
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+
+
+### Status GitHub
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diego-si&show_icons=true&locale=en" alt="Diego Almeida da Silva" />
 
 <!--
 *test*
