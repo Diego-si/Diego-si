@@ -55,10 +55,10 @@ Acesse o site <a href="http://mobilecommunity.site/">**Mobile Community**</a>.
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 
 ### Status de Linguagens
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-si&show_icons=true&locale=en"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-si&show_icons=true&theme=radical"/>
 
 ### Status GitHub
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diego-si&show_icons=true&locale=en" alt="Diego Almeida da Silva" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diego-si&show_icons=true&theme=radical" alt="Diego Almeida da Silva" />
 
 <!--
 *test*
