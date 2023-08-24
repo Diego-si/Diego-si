@@ -37,7 +37,7 @@ Meu maior foco e se aprofundar em relação ao java.
 - 🔭 Atualmente eu trabalho na Foursys Tecnologia.
 - 📚 Estudando javaScript e typeScript, java.
 - 🎮 Um pouco de jogos de PC
-- 
+  
 
 ### Ferramentas Utilizadas
 
