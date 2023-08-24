@@ -11,7 +11,7 @@
 </a>
 <br />
 
-Me chamo Diego Almeida da Silva, 27 anos, gosto de jogos para **Pc** , amo tecnologia e música eletrônica.
+Me chamo Diego Almeida da Silva, 29 anos, gosto de jogos para **Pc** , amo tecnologia e música eletrônica.
 
 Faço parte da equipe de Programação Trainee Java,
 desde janeiro de 2021.
@@ -35,13 +35,9 @@ Meu maior foco e se aprofundar em relação ao java.
 ### O que estou fazendo atualmente?
 
 - 🔭 Atualmente eu trabalho na Foursys Tecnologia.
-- 📚 Estudando javaScript e typeScript, java web.
-- 🎮 Um pouco de jogos de PC, me chama discord: Azul#1152
-
-### Projetos em que estou envolvido no momento
-
-Para divulgação dos jogos Call of Duty Modern Warfare e Legend of Legends Wild Rift,
-Acesse o site <a href="http://mobilecommunity.site/">**Mobile Community**</a>.
+- 📚 Estudando javaScript e typeScript, java.
+- 🎮 Um pouco de jogos de PC
+- 
 
 ### Ferramentas Utilizadas
 
